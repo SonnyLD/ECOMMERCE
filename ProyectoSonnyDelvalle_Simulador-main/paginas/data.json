@@ -1,0 +1,69 @@
+  
+  [
+    {
+        "id": 1,
+        "dia": "Lunes",
+        "tiros": "100",
+        "pases": "200",
+        "habilidad": "100",
+        "promedio": "134",
+        "estado": true
+
+    },
+
+    {
+        "id": 2,
+        "dia": "Martes",
+        "tiros": "60",
+        "pases": "60",
+        "habilidad": "50",
+        "promedio": "57",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "dia": "Miercoles",
+        "tiros": "100",
+        "pases": "200",
+        "habilidad": "100",
+        "promedio": "134",
+        "estado": true
+    },
+    {
+        "id": 4,
+        "dia": "Jueves",
+        "tiros": "100",
+        "pases": "200",
+        "habilidad": "100",
+        "promedio": "134",
+        "estado": true
+    },
+    {
+        "id": 5,
+        "dia": "Viernes",
+        "tiros": "40",
+        "pases": "100",
+        "habilidad": "50",
+        "promedio": "64",
+        "estado": false
+    },
+    {
+        "id": 6,
+        "dia": "Sabado",
+        "tiros": "100",
+        "pases": "90",
+        "habilidad": "80",
+        "promedio": "90",
+        "estado": true
+    },
+    {
+        "id": 7,
+        "dia": "Domingo",
+        "tiros": "100",
+        "pases": "200",
+        "habilidad": "100",
+        "promedio": "134",
+        "estado": true
+    }
+  
+ ]
